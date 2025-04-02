@@ -1,0 +1,34 @@
+[
+    [
+        {
+            "id": "car1",
+            "make": "Toyota",
+            "model": "Camry",
+            "year": 2020,
+            "available": true
+        },
+        {
+            "id": "car2",
+            "make": "Honda",
+            "model": "Civic",
+            "year": 2019,
+            "available": true
+        }, 
+
+        {
+            "id" : "car3", 
+            "make" : "Mercedes",
+            "model": "E-Class", 
+            "year" : "2020", 
+            "available": true
+        }, 
+
+        {
+            "id" : "car4",
+            "make" : "BMW",
+            "model" : "3 Series",
+            "year" : "2021", 
+            "available": true
+        }
+      ]
+]

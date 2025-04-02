@@ -1,0 +1,16 @@
+{
+  "name": "car_rental_system",
+  "version": "1.0.0",
+  "description": " car rental system project",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "author": "Yeprem Karapetyan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0",
+    "nodemon": "^3.1.9"
+  }
+}

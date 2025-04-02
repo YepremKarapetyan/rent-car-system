@@ -1,0 +1,16 @@
+[
+    {
+      "rentalId": "rent1",
+      "customerId": "cust1",
+      "carId": "car1",
+      "rentedAt": "2025-04-01T10:00:00Z",
+      "returnedAt": null,
+      "sessionToken": "abc123"
+    }
+  ]
+  
+  
+  
+  
+  
+  
